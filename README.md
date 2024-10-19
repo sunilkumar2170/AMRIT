@@ -1,6 +1,6 @@
-# AMRIT - Accessible Medical Records via Integrated Technology
+# AMRIT - Accessible Medical Records via Integrated Technologies
 
-**AMRIT** (Accessible Medical Records via Integrated Technology) is an open-source digital health platform developed by **Piramal Swasthya Management and Research Institute (PSMRI)** to advance accessible primary healthcare in India. This repository is the central hub for community-driven enhancements, issue tracking, and collaboration, inviting developers and healthcare enthusiasts alike to contribute to AMRIT's growth. Together, we’re building a scalable, interoperable healthcare solution aimed at transforming primary care for millions.
+**AMRIT** (Accessible Medical Records via Integrated Technologies) is an open-source digital health platform developed by **Piramal Swasthya Management and Research Institute (PSMRI)** to advance accessible primary healthcare in India. This repository is the central hub for community-driven enhancements, issue tracking, and collaboration, inviting developers and healthcare enthusiasts alike to contribute to AMRIT's growth. Together, we’re building a scalable, interoperable healthcare solution aimed at transforming primary care for millions.
 
 ## 🚀 Getting Started
 
