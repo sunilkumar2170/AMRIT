@@ -81,3 +81,12 @@ The following repositories contain documentation related to AMRIT Platform.
 Explore the **Issues** section for active tickets and opportunities to contribute. Your contributions are empowering healthcare access and innovation across India!
 
 Join us in the mission to make primary healthcare more accessible and efficient through technology.
+
+## Filing Issues
+
+If you encounter any issues, bugs, or have feature requests, please file them in the [main AMRIT repository](https://github.com/PSMRI/AMRIT/issues). Centralizing all feedback helps us streamline improvements and address concerns efficiently.  
+
+## Join Our Community
+
+We’d love to have you join our community discussions and get real-time support!  
+Join our [Discord server](https://discord.gg/FVQWsf5ENS) to connect with contributors, ask questions, and stay updated.  
