@@ -96,6 +96,13 @@ Join our [Discord server](https://discord.gg/FVQWsf5ENS) to connect with contrib
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/sweta-prakash-18285415a"><img src="https://avatars.githubusercontent.com/u/125380378?v=4?s=100" width="100px;" alt="Sweta Prakash"/><br /><sub><b>Sweta Prakash</b></sub></a><br /><a href="#code-swetatech24" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
