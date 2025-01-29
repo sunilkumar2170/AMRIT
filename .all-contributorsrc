@@ -1,4 +1,21 @@
 {
-  "projectName": "<insert the repo's name>",
-  "projectOwner": "<insert the repo's owner/orgs>"
+  "projectName": "AMRIT",
+  "projectOwner": "PSMRI",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "swetatech24",
+      "name": "Sweta Prakash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125380378?v=4",
+      "profile": "https://www.linkedin.com/in/sweta-prakash-18285415a",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
 }
