@@ -59,6 +59,7 @@ To run API repositories locally, please follow the guide [here](https://piramal-
 | BeneficiaryID-Generation-API | [BeneficiaryID-Generation-API](https://github.com/PSMRI/BeneficiaryID-Generation-API) | AMRIT API microservice for generation and management of unique beneficiary IDs. | 8092 |
 | FHIR-API | [FHIR-API](https://github.com/PSMRI/FHIR-API) | Service that implements FHIR standard for healthcare information exchange between various systems that are used by clinicians and organisations | 8093 |
 | Identity-API | [Identity-API](https://github.com/PSMRI/Identity-API) | Identity API is a microservice that is used for the creation and management of beneficiaries. | 8094 |
+| Identity-1097-API | [Identity-API](https://github.com/PSMRI/Identity-API) | Identity-1097 API is a microservice that is used for the creation and management of beneficiaries(1097Identity Profile). | 8095 |
 
 Note: These ports should be used when running the services in a local development environment
 
