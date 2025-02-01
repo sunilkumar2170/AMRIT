@@ -2,14 +2,6 @@
 
 **AMRIT** (Accessible Medical Records via Integrated Technologies) is an open-source digital health platform developed by **Piramal Swasthya Management and Research Institute (PSMRI)** to advance accessible primary healthcare in India. This repository is the central hub for community-driven enhancements, issue tracking, and collaboration, inviting developers and healthcare enthusiasts alike to contribute to AMRIT's growth. Together, we’re building a scalable, interoperable healthcare solution aimed at transforming primary care for millions.
 
-## 🚀 Getting Started
-
-Excited to get involved? Check out the resources below to dive right in:
-
-- **[JIRA for Issue Tracking and Management](https://support.piramalfoundation.org/jira/projects/AMM/issues)**: Find user stories, upcoming features and bugs that are actively getting worked on by PSMRI.
-- **[Confluence for Product Documentation](https://pmp.piramalswasthya.org/confluence/display/AMRIT)**: Access detailed product documentation and learn more about AMRIT’s features.
-- **[Developer Documentation](https://piramal-swasthya.gitbook.io/amrit)**: Step-by-step setup and development guides to get you started.
-
 ## 📦 Repositories  
 
 Below is the list of AMRIT's UI and API repositories with details:  
@@ -18,8 +10,6 @@ Below is the list of AMRIT's UI and API repositories with details:
 
 All UI repositories are built with Angular.
 To run UI repositories locally, please follow the guide [here](https://piramal-swasthya.gitbook.io/amrit/developer-guide/development-environment-setup/installation-instructions/for-ui-repositories).
-
-Here's the rendered table view:
 
 | Repository Name | Link | Description | Local Dev Port |
 |------------------|------|-------------|----------------|
@@ -36,7 +26,7 @@ Here's the rendered table view:
 | Helpline1097-UI | [Helpline1097-UI](https://github.com/PSMRI/Helpline1097-UI) | AMRIT UI module for running 1097 health information helpline. This module works along with Helpline1097-API microservice. | 4210 |
 | Helpline104-UI | [Helpline104-UI](https://github.com/PSMRI/Helpline104-UI) | AMRIT UI module for running 104 health information helpline. This module works along with Helpline104-API microservice. | 4211 |
 
-Note: These ports should be used when running the services in a local development environment
+Note: These ports should be used when running the services in a local development environment.
 
 #### API repositories
 
@@ -61,7 +51,7 @@ To run API repositories locally, please follow the guide [here](https://piramal-
 | Identity-API | [Identity-API](https://github.com/PSMRI/Identity-API) | Identity API is a microservice that is used for the creation and management of beneficiaries. | 8094 |
 | Identity-1097-API | [Identity-API](https://github.com/PSMRI/Identity-API) | Identity-1097 API is a microservice that is used for the creation and management of beneficiaries(1097Identity Profile). | 8095 |
 
-Note: These ports should be used when running the services in a local development environment
+Note: These ports should be used when running the services in a local development environment.
 
 #### Mobile application repositories
 
@@ -79,24 +69,39 @@ The following repositories contain documentation related to AMRIT Platform.
 | Repository Name | Link | Description |
 |------------------|------|-------------|
 | AMRIT-Docs | [AMRIT-Docs](https://github.com/PSMRI/AMRIT-Docs) | AMRIT developer documentation synced with GitBook. |
-| AMRIT-DB | [AMRIT-DB](https://github.com/PSMRI/AMRIT-DB) | DB service to simplify database schema management and setting up local environments. Using Flyway for migrations, it ensures consistency in DB schema for deployments.. |
+| AMRIT-DB | [AMRIT-DB](https://github.com/PSMRI/AMRIT-DB) | DB service to simplify database schema management and setting up local environments. Using Flyway for migrations, it ensures consistency in DB schema for deployments. |
 | AMRIT-Website | [AMRIT-Website](https://github.com/PSMRI/AMRIT-Website) | Website for AMRIT. This is a forked repo to create AMRIT Website. |
-| AMRIT-DevOps | [AMRIT-DevOps](https://github.com/PSMRI/AMRIT-DevOps) | All things DevOps related for AMRIT are housed in this repo |
+| AMRIT-DevOps | [AMRIT-DevOps](https://github.com/PSMRI/AMRIT-DevOps) | All things DevOps related for AMRIT are housed in this repo. |
 
-## ✍️ Contributing
 
-Explore the **Issues** section for active tickets and opportunities to contribute. Your contributions are empowering healthcare access and innovation across India!
+## 🚀 Getting Started
 
-Join us in the mission to make primary healthcare more accessible and efficient through technology.
+We're thrilled that you're interested in contributing to this project! Here's how you can get started:
 
-## Filing Issues
+### For Contributors
 
-If you encounter any issues, bugs, or have feature requests, please file them in the [main AMRIT repository](https://github.com/PSMRI/AMRIT/issues). Centralizing all feedback helps us streamline improvements and address concerns efficiently.  
+1. **Set Up Your Development Environment**  
+   Follow our [Developer Documentation](https://piramal-swasthya.gitbook.io/amrit) for step-by-step instructions on setting up the project locally.
 
-## Join Our Community
+2. **File Issues**  
+   If you encounter any issues, bugs, or have feature requests, please file them in the [main AMRIT repository](https://github.com/PSMRI/AMRIT/issues). Centralizing all feedback helps us streamline improvements and address concerns efficiently.
 
-We’d love to have you join our community discussions and get real-time support!  
-Join our [Discord server](https://discord.gg/FVQWsf5ENS) to connect with contributors, ask questions, and stay updated.  
+3. **Explore Open Issues**  
+   Check out the [Issues section](#) to find active tickets and opportunities to contribute. Your contributions empower healthcare access and innovation across India!
+
+4. **Submit Your Contribution**  
+   Found something to work on? Raise a pull request (PR) when you're ready!
+
+5. **Join the Community**  
+   Have questions or want to connect with other contributors? Join our [Discord Server](https://discord.gg/FVQWsf5ENS) to chat with the team and community.
+
+---
+
+### Additional Resources
+
+- **[JIRA for Issue Tracking and Management](https://support.piramalfoundation.org/jira/projects/AMM/issues)**: Find user stories, upcoming features, and bugs that are actively being worked on by PSMRI.  
+- **[Confluence for Product Documentation](https://pmp.piramalswasthya.org/confluence/display/AMRIT)**: Access detailed product documentation and learn more about AMRIT’s features.  
+
 
 ## Contributors
 
@@ -115,4 +120,3 @@ Join our [Discord server](https://discord.gg/FVQWsf5ENS) to connect with contrib
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
