@@ -80,6 +80,18 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Asp-irin",
+      "name": "Asp-irin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119241921?v=4",
+      "profile": "https://github.com/Asp-irin",
+      "contributions": [
+        "code",
+        "doc",
+        "blog",
+        "infra"
+      ]
     }
   ]
 }
