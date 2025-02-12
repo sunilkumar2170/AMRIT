@@ -15,7 +15,7 @@ To become a contributor, follow these steps:
 Step 1: Understand the AMRIT Platform.
 
 - Read about the AMRIT Platform. Our [developer documentation](https://piramal-swasthya.gitbook.io/amrit) is a good starting point.
-- Understand the API and UI services of AMRIT Plaform. Refer to [AMRIT README]([https://piramal-swasthya.gitbook.io/amrit](https://github.com/PSMRI/AMRIT/blob/main/README.md))
+- Understand the API and UI services of AMRIT Plaform. Refer to [AMRIT README](https://github.com/PSMRI/AMRIT/blob/main/README.md).
 
 Step 2: Join the Community
 
