@@ -67,9 +67,21 @@
       "login": "gupta-soham",
       "name": "Soham Gupta",
       "avatar_url": "https://avatars.githubusercontent.com/u/97831613?v=4",
-      "profile": "https://sohamgupta.co/", 
-       "contributions": [
+      "profile": "https://sohamgupta.co/",
+      "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "Asp-irin",
+      "name": "Asp-irin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119241921?v=4",
+      "profile": "https://github.com/Asp-irin",
+      "contributions": [
+        "code",
+        "doc",
+        "blog",
+        "infra"
       ]
     }
   ]
