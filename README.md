@@ -104,6 +104,8 @@ The following repositories contain documentation related to AMRIT Platform.
 
 ## Contributors
 
+A huge thanks to all our contributors! Their efforts power AMRIT’s growth, and we look forward to adding more names to this list!
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
