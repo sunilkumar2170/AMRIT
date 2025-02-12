@@ -2,6 +2,27 @@
 
 **AMRIT** (Accessible Medical Records via Integrated Technologies) is an open-source digital health platform developed by **Piramal Swasthya Management and Research Institute (PSMRI)** to advance accessible primary healthcare in India. This repository is the central hub for community-driven enhancements, issue tracking, and collaboration, inviting developers and healthcare enthusiasts alike to contribute to AMRIT's growth. Together, we’re building a scalable, interoperable healthcare solution aimed at transforming primary care for millions.
 
+## 🚀 Getting Started
+
+We're thrilled that you're interested in contributing to this project! Here's how you can get started:
+
+### For Contributors
+
+1. **Set Up Your Development Environment**  
+   Follow our [Developer Documentation](https://piramal-swasthya.gitbook.io/amrit) for step-by-step instructions on setting up the project locally.
+
+2. **File Issues**  
+   If you encounter any issues, bugs, or have feature requests, please file them in the [main AMRIT repository](https://github.com/PSMRI/AMRIT/issues). Centralizing all feedback helps us streamline improvements and address concerns efficiently.
+
+3. **Explore Open Issues**  
+   Check out the [Issues section](https://github.com/PSMRI/AMRIT/issues) to find active tickets and opportunities to contribute. Your contributions empower healthcare access and innovation across India!
+
+4. **Submit Your Contribution**  
+   Found something to work on? Raise a pull request (PR) when you're ready!
+
+5. **Join the Community**  
+   Have questions or want to connect with other contributors? Join our [Discord Server](https://discord.gg/FVQWsf5ENS) to chat with the team and community.
+
 ## 📦 Repositories  
 
 Below is the list of AMRIT's UI and API repositories with details:  
@@ -72,28 +93,6 @@ The following repositories contain documentation related to AMRIT Platform.
 | AMRIT-DB | [AMRIT-DB](https://github.com/PSMRI/AMRIT-DB) | DB service to simplify database schema management and setting up local environments. Using Flyway for migrations, it ensures consistency in DB schema for deployments. |
 | AMRIT-Website | [AMRIT-Website](https://github.com/PSMRI/AMRIT-Website) | Website for AMRIT. This is a forked repo to create AMRIT Website. |
 | AMRIT-DevOps | [AMRIT-DevOps](https://github.com/PSMRI/AMRIT-DevOps) | All things DevOps related for AMRIT are housed in this repo. |
-
-
-## 🚀 Getting Started
-
-We're thrilled that you're interested in contributing to this project! Here's how you can get started:
-
-### For Contributors
-
-1. **Set Up Your Development Environment**  
-   Follow our [Developer Documentation](https://piramal-swasthya.gitbook.io/amrit) for step-by-step instructions on setting up the project locally.
-
-2. **File Issues**  
-   If you encounter any issues, bugs, or have feature requests, please file them in the [main AMRIT repository](https://github.com/PSMRI/AMRIT/issues). Centralizing all feedback helps us streamline improvements and address concerns efficiently.
-
-3. **Explore Open Issues**  
-   Check out the [Issues section](#) to find active tickets and opportunities to contribute. Your contributions empower healthcare access and innovation across India!
-
-4. **Submit Your Contribution**  
-   Found something to work on? Raise a pull request (PR) when you're ready!
-
-5. **Join the Community**  
-   Have questions or want to connect with other contributors? Join our [Discord Server](https://discord.gg/FVQWsf5ENS) to chat with the team and community.
 
 ---
 
