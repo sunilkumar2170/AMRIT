@@ -110,7 +110,8 @@ The following repositories contain documentation related to AMRIT Platform.
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/sweta-prakash-18285415a"><img src="https://avatars.githubusercontent.com/u/125380378?v=4?s=100" width="100px;" alt="Sweta Prakash"/><br /><sub><b>Sweta Prakash</b></sub></a><br /><a href="#code-swetatech24" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/sweta-prakash-18285415a"><img src="https://avatars.githubusercontent.com/u/125380378?v=4?s=100" width="100px;" alt="Sweta Prakash"/><br /><sub><b>Sweta Prakash</b></sub></a><br /><a href="#code-swetatech24" title="Code">💻</a> <a href="#test-swetatech24" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/anandamideShakyan"><img src="https://avatars.githubusercontent.com/u/32445019?v=4?s=100" width="100px;" alt="Shakyan Kushwaha"/><br /><sub><b>Shakyan Kushwaha</b></sub></a><br /><a href="#code-anandamideShakyan" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
