@@ -115,8 +115,11 @@ The following repositories contain documentation related to AMRIT Platform.
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Anksssssss"><img src="https://avatars.githubusercontent.com/u/117500569?v=4?s=100" width="100px;" alt="Ankit Prakash"/><br /><sub><b>Ankit Prakash</b></sub></a><br /><a href="#code-Anksssssss" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://adarshjena.in"><img src="https://avatars.githubusercontent.com/u/76236137?v=4?s=100" width="100px;" alt="Adarsh Jena"/><br /><sub><b>Adarsh Jena</b></sub></a><br /><a href="#code-adarshnjena" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SanjanaSogimatt"><img src="https://avatars.githubusercontent.com/u/87171143?v=4?s=100" width="100px;" alt="Sanjana"/><br /><sub><b>Sanjana</b></sub></a><br /><a href="#code-SanjanaSogimatt" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://sohamgupta.co/"><img src="https://avatars.githubusercontent.com/u/97831613?v=4?s=100" width="100px;" alt="Soham Gupta"/><br /><sub><b>Soham Gupta</b></sub></a><br /><a href="#code-gupta-soham" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ivor11"><img src="https://avatars.githubusercontent.com/u/138492857?v=4?s=100" width="100px;" alt="ivor"/><br /><sub><b>ivor</b></sub></a><br /><a href="#code-ivor11" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://sohamgupta.co/"><img src="https://avatars.githubusercontent.com/u/97831613?v=4?s=100" width="100px;" alt="Soham Gupta"/><br /><sub><b>Soham Gupta</b></sub></a><br /><a href="#code-gupta-soham" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Asp-irin"><img src="https://avatars.githubusercontent.com/u/119241921?v=4?s=100" width="100px;" alt="Asp-irin"/><br /><sub><b>Asp-irin</b></sub></a><br /><a href="#code-Asp-irin" title="Code">💻</a> <a href="#doc-Asp-irin" title="Documentation">📖</a> <a href="#blog-Asp-irin" title="Blogposts">📝</a> <a href="#infra-Asp-irin" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     </tr>
   </tbody>
 </table>
