@@ -120,7 +120,7 @@ The following repositories contain documentation related to AMRIT Platform.
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Asp-irin"><img src="https://avatars.githubusercontent.com/u/119241921?v=4?s=100" width="100px;" alt="Asp-irin"/><br /><sub><b>Asp-irin</b></sub></a><br /><a href="#code-Asp-irin" title="Code">💻</a> <a href="#doc-Asp-irin" title="Documentation">📖</a> <a href="#blog-Asp-irin" title="Blogposts">📝</a> <a href="#infra-Asp-irin" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kevalkanp1011"><img src="https://avatars.githubusercontent.com/u/74661970?v=4?s=100" width="100px;" alt="Keval Kanpariya"/><br /><sub><b>Keval Kanpariya</b></sub></a><br /><a href="#code-kevalkanp1011" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kevalkanp1011"><img src="https://avatars.githubusercontent.com/u/74661970?v=4?s=100" width="100px;" alt="Keval Kanpariya"/><br /><sub><b>Keval Kanpariya</b></sub></a><br /><a href="#code-kevalkanp1011" title="Code">💻</a><a href="#blog-kevalkanp1011" title="Blogposts">📝</a></td>
     </tr>
   </tbody>
 </table>
