@@ -1,4 +1,4 @@
-# Contributor Guidance Document for GSoC
+# Contributor Guidance for GSoC 2025
 
 Welcome to PSMRI!
 
