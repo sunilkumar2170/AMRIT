@@ -101,6 +101,15 @@
         "code",
         "blog"
       ]
+    },
+    {
+      "login": "techy4shri",
+      "name": "Garima",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141991095?v=4",
+      "profile": "https://github.com/techy4shri",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
