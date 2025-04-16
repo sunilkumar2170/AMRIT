@@ -129,6 +129,9 @@ A huge thanks to all our contributors! Their efforts power AMRIT’s growth, and
       <td align="center" valign="top" width="14.28%"><a href="https://tanmaymd.vercel.app/"><img src="https://avatars.githubusercontent.com/u/144029909?v=4?s=100" width="100px;" alt="Zapper9982"/><br /><sub><b>Zapper9982</b></sub></a><br /><a href="#code-Zapper9982" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/blazethunderstorm"><img src="https://avatars.githubusercontent.com/u/149250431?v=4?s=100" width="100px;" alt="ANIRUDH"/><br /><sub><b>ANIRUDH</b></sub></a><br /><a href="#code-blazethunderstorm" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yashpatil641"><img src="https://avatars.githubusercontent.com/u/156583847?v=4?s=100" width="100px;" alt="Yash Patil"/><br /><sub><b>Yash Patil</b></sub></a><br /><a href="#code-yashpatil641" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
