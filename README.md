@@ -14,13 +14,17 @@ We're thrilled that you're interested in contributing to this project! Here's ho
 2. **File Issues**  
    If you encounter any issues, bugs, or have feature requests, please file them in the [main AMRIT repository](https://github.com/PSMRI/AMRIT/issues). Centralizing all feedback helps us streamline improvements and address concerns efficiently.
 
-3. **Explore Open Issues**  
+3. **Explore Open Issues**
+   
    Check out the [Issues section](https://github.com/PSMRI/AMRIT/issues) to find active tickets and opportunities to contribute. Your contributions empower healthcare access and innovation across India!
 
-4. **Submit Your Contribution**  
+4. **Check Out `CONTRIBUTOR_GUIDELINES.md`**  
+   Make sure to read through this file to understand the project’s contribution standards and expectations.
+
+5. **Submit Your Contribution**  
    Found something to work on? Raise a pull request (PR) when you're ready!
 
-5. **Join the Community**  
+6. **Join the Community**  
    Have questions or want to connect with other contributors? Join our [Discord Server](https://discord.gg/FVQWsf5ENS) to chat with the team and community.
 
 ## 📦 Repositories  
